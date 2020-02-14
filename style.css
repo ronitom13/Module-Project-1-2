@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, 
+body {
+  height: 100%;
+  font-size: 1em; 
+}
+
+body {
+  display: flex; 
+  align-items: center;
+  background-image: url(image2.jpg);
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  
+}
+
+.inner {
+  width: 70%; 
+  margin-left: auto; 
+  margin-right: auto; 
+  padding: 30px; 
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+h1 {
+  font-size: 4em; 
+  padding-bottom: 60px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+button{
+  font-size: small;
+}
+
+ul {
+  padding: 30px; 
+}
+
+ul li {
+  list-style: none;
+  line-height: 30px 0 45px 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+  
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+}
+
